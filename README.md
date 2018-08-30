@@ -9,6 +9,6 @@ What is the BEST input type to use?
 Choose the correct answer
 
 1) text
-2) range
+2) range---> this is the answer
 3) number
 4) select
